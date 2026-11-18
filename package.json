@@ -1,0 +1,11 @@
+{
+  "name": "download-speed-test",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "node --test speed-test.test.js"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
